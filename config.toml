@@ -1,0 +1,200 @@
+languageCode = "en-us"
+title = "Fresh Start"
+theme = "crab"
+baseurl = "/"
+
+[params]
+description = "Everybody deserves a fresh start"
+logoimage = "img/logo.png"
+copyright = "Fresh Start"
+
+# mathjax = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+## Uncomment if you want mathjax enabled. The above cdn source is taken from https://gohugo.io/content-management/formats/#mathjax-with-hugo
+
+[permalinks]
+news = "/news/:year/:month/:slug/"
+
+[taxonomies]
+tags = "tags"
+
+[[menu.main]]
+weight = 1
+name = "Home"
+url = "/"
+
+[[menu.main]]
+weight = 2
+name = "About Us"
+url = "/about/About"
+identifier = "about"
+  [[menu.main]]
+  parent = "about"
+  weight = 1
+  name = "Our Approach"
+  url = "/about/Approach/"
+  [[menu.main]]
+  parent = "about"
+  weight = 2
+  name = "Our Leadership"
+  url = "/about/Leadership/"
+  [[menu.main]]
+  parent = "about"
+  weight = 3
+  name = "Annual Overview"
+  url = "/about/Overview/"
+  [[menu.main]]
+  parent = "about"
+  weight = 4
+  name = "Subscribe"
+  url = "/about/Subscribe/"
+  [[menu.main]]
+  parent = "about"
+  weight = 5
+  name = "Accreditation"
+  url = "/about/Accreditation/"
+  [[menu.main]]
+  parent = "about"
+  weight = 6
+  name = "Privacy Statement"
+  url = "/about/Privacy/"
+
+[[menu.main]]
+weight = 3
+name = "Services"
+url = "/services/Services"
+identifier = "services"
+  [[menu.main]]
+  parent = "services"
+  weight = 1
+  name = "Treatment Clinic"
+  url = "/services/Treatment/"
+  [[menu.main]]
+  parent = "services"
+  weight = 2
+  name = "GP Clinic"
+  url = "/services/GP/"
+  [[menu.main]]
+  parent = "services"
+  weight = 3
+  name = "Detoxification"
+  url = "/services/Detoxification/"
+  [[menu.main]]
+  parent = "services"
+  weight = 4
+  name = "Hepatitis C Treatment"
+  url = "/services/HCT/"
+  [[menu.main]]
+  parent = "services"
+  weight = 5
+  name = "Mental Health Care"
+  url = "/services/MHC/"
+  [[menu.main]]
+  parent = "services"
+  weight = 6
+  name = "Counselling"
+  url = "/services/Counselling/"
+  [[menu.main]]
+  parent = "services"
+  weight = 7
+  name = "Chaplaincy"
+  url = "/services/Chaplaincy/"
+  [[menu.main]]
+  parent = "services"
+  weight = 8
+  name = "Housing"
+  url = "/services/Housing/"
+  [[menu.main]]
+  parent = "services"
+  weight = 9
+  name = "Rehabilitation"
+  url = "/services/Rehabilitation/"
+  [[menu.main]]
+  parent = "services"
+  weight = 10
+  name = "Support Groups"
+  url = "/services/Support/"
+
+[[menu.main]]
+weight = 4
+name = "Information"
+url = "/info/Information"
+identifier = "information"
+  [[menu.main]]
+  parent = "information"
+  weight = 1
+  name = "Opiates"
+  url = "/info/Opiates/"
+  [[menu.main]]
+  parent = "information"
+  weight = 2
+  name = "Amphetamines"
+  url = "/info/Amphetamines/"
+  [[menu.main]]
+  parent = "information"
+  weight = 3
+  name = "Benzodiazepines"
+  url = "/info/Benzodiazepines/"
+  [[menu.main]]
+  parent = "information"
+  weight = 4
+  name = "Alcohol"
+  url = "/info/Alcohol/"
+  [[menu.main]]
+  parent = "information"
+  weight = 5
+  name = "More"
+  url = "/info/More/"
+
+[[menu.main]]
+weight = 5
+name = "Support Us"
+url = "/support/Support"
+identifier = "support"
+  [[menu.main]]
+  parent = "support"
+  weight = 1
+  name = "Northam Greeting Cards"
+  url = "/support/cards/"
+  [[menu.main]]
+  parent = "support"
+  weight = 2
+  name = "Donate"
+  url = "/support/Donate/"
+  [[menu.main]]
+  parent = "support"
+  weight = 3
+  name = "Make a Bequest"
+  url = "/support/Bequest/"
+  [[menu.main]]
+  parent = "support"
+  weight = 4
+  name = "Invite Us To Visit"
+  url = "/support/Visit/"
+  [[menu.main]]
+  parent = "support"
+  weight = 5
+  name = "Volunteer"
+  url = "/support/Volunteer/"
+  [[menu.main]]
+  parent = "support"
+  weight = 6
+  name = "Fresh Start Wish List"
+  url = "/support/wishes/"
+
+[[menu.main]]
+weight = 6
+name = "News"
+url = "/news/"
+
+[[menu.main]]
+weight = 7
+name = "Careers"
+url = "/careers/"
+
+[[menu.main]]
+weight = 8
+name = "Contact"
+url = "/contact/Contact"
+
+[params.carousel]
+    enable = true
