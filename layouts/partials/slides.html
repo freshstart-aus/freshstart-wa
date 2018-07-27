@@ -1,0 +1,10 @@
+<div class="owl-carousel owl-theme">
+  {{ range sort .Site.Data.slides "weight" }}
+  <div class="item">
+    <div class="slide">
+      <a href="{{ .url }}"><img src="{{ .image }}" alt=""></img></a>
+      <div class="slide-caption">{{ .caption }}</div>
+    </div>
+  </div>
+  {{ end }}
+</div>

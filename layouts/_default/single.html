@@ -1,0 +1,9 @@
+{{ partial "h.html" . }}
+{{ if hasPrefix .URL "/news/" }}
+<p class="timestamp">{{ .Date.Format "January 2, 2006" }}</p>
+{{ end }}
+{{ .Content }}
+{{ if .Params.tags }}
+  {{ partial "tags" .Params.tags }}
+{{ end }}
+{{ partial "f.html" . }}
