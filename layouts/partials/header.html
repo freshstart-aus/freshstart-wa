@@ -1,0 +1,6 @@
+<div id="header">
+  <div id="site-logo"><img src="{{ .Site.BaseURL }}{{ .Site.Params.logoimage }}"></div>
+  <div id="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></div>
+  <div id="site-slogan">{{ .Site.Params.Description }}</div>
+</div>
+<nav>{{ partial "menu.html" .Site.Menus.main }}</nav>

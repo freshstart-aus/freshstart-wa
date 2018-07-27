@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">{{ partial "header.html" . }}</header>
+      <div class="panel home home-specialist">
+        <h2>Dr George O'Neil</h2>
+        <h3>Addiction Medicine Specialist</h3>
+        <h3>Medical Director</h3>
+      </div>
+      <div class="panel home home-about">
+        <h2>Who we are</h2>
+        <p>Fresh Start is a not for profit organisation helping families break the cycle of addiction.</p>
+        <a href="/about/about">About us</a>
+      </div>
+      <div class="panel home home-contact">
+        <h2>Contact Fresh Start to learn about treatment options</h2>
+        <a href="/services/treatment">Contact</a>
+      </div>
+      <div class="panel home home-cards">
+        <h2>Northam Greeting Cards</h2>
+        <h2>For Sale!</h2>
+        <a href="/support/cards/">Get cards</a>
+      </div>
+      <div class="panel home home-rehabilitation">
+        <h2>Rehabilitation</h2>
+        <a href="/services/rehabilitation/">Find out more</a>
+      </div>
+      <div class="panel home home-volunteer">
+        <h2>Volunteer your time to help support Fresh Start</h2>
+        <a href="/support/volunteer/">How to volunteer</a>
+      </div>
+      <div class="panel home home-newsletter">
+        <h2>Receive our newsletter</h2>
+        <a href="/about/subscribe/">How to subscribe</a>
+      </div>
+      <div class="panel home-fb">
+        <a href="https://register.freshstart.org.au/?mode=freshdon"><img src="/img/home/support.jpg"/></a>
+      </div>
+      <div class="panel home home-counselling">
+        <h2>Our counsellors work with hundreds of people</h2>
+        <a href="/services/counselling/">Find out more</a>
+      </div>
+      <div class="panel home-fb">
+        <a href="https://www.facebook.com/fresh.start.recovery.programme/"><img src="/img/home/fb.jpg"/></a>
+      </div>
+      <footer class="footer">{{ partial "footer.html" . }}</footer>
+    </div>
+    {{ partial "scripts.html" . }}
+  </body>
+</html>
