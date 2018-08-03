@@ -1,6 +1,6 @@
 # freshstart-wa
 
-This is for development of the [FreshStart](https:freshstart.org.au) web site.
+This is for development of the [FreshStart](https://freshstart.org.au) web site.
 
 See the [existing website](http://www.freshstart.org.au/).
 
