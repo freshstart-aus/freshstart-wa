@@ -1,6 +1,6 @@
 # freshstart-wa
 
-This is for development of the [FreshStart](https://freshstart.org.au) web site.
+This is the code repository for the [FreshStart development web site](https://freshstart-aus.netlify.com/). Changes made here automatically propagate to the development website a few moments after they are committed.
 
 See the [existing website](http://www.freshstart.org.au/).
 
