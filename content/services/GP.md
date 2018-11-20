@@ -6,15 +6,15 @@ draft: false
 
 [Make an appointment](/contact/contact) to see one of our doctors.
 
-All Fresh Start patients have access to general health services through our GP clinic. The GP clinic is open four days a week (Mondays, Tuesdays, Thursdays and Fridays). In addition to this, patients have access to counselling, mental health and chaplaincy service, and are able to make an appointment on any of these days. Our Hepatitis C treatment clinic usually takes place on Tuesdays.
+All Fresh Start patients in a have access to general health services through our GP clinic. The GP clinic is open four days a week (Mondays, Tuesdays, Thursdays and Fridays). In addition to this, patients have access to counselling, mental health and chaplaincy service, and are able to make an appointment on any of these days. Our Hepatitis C treatment clinic usually takes place on Tuesdays.
 
 We encourage our patients to see their own doctor, but all Fresh Start patients have access to our team of General Practitioners.
 
-## Dr Wendy Lawrance MBBS, Dip. RACOG, FRACGP
+## Dr Wendy Lawrance MBBS, Dip. RACOG, FRACGP, Ch.A.M.
 
 ![Dr Wendy Lawrance](/img/Wendy-Lawrance.jpg)
 
-Dr Lawrance joined the Fresh Start GP team in 2006. In 2012, she commenced training for the medical specialty of Addiction Medicine at the WA State Government drug and alcohol service, Next Step. She has served on the Board of AMPRF Ltd since 2009. Wendy has an interest in addiction education and has spoken about drug and alcohol issues to primary and high schools, church, general and medical groups.
+Dr Lawrance joined the Fresh Start GP team in 2006. She has completed training for the medical specialty of Addiction Medicine at the WA State Government drug and alcohol service, Next Step. She has served on the Board of AMPRF Ltd since 2009. Wendy has an interest in addiction education and has spoken about drug and alcohol issues to primary and high schools, church, general and medical groups.
 
 
 ## Dr Douglas Hee MBBS, FRCOG, FRANZCOG
