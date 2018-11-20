@@ -4,11 +4,13 @@ date: 2017-09-25T18:14:08+08:00
 draft: false
 ---
 
-[Make an appointment](/contact/contact) to see our Hepatitis C Specialist Nurse.
+[Make an appointment](/contact/contact) xto see our Hepatitis C Specialist Nurse.
 
 ## What is hepatitis C?
 
 ![Hepatitis C virus](/img/hepatitis.jpg)
+
+Fresh Start, together with the Hepatology Department at Sir Charles Gairdner Hospital (SCGH), has a highly successful Shared Care treatment programme for Hepititis C and welcomes all drug users who are being treated through the drug addiction treatment program to join it.
 
 Hepatitis C is a viral illness that damages the liver and is caused specifically by the Hepatitis C virus (HCV).
 
@@ -44,10 +46,6 @@ The Hepatitis C virus has different genotypes (strains). The HCV genotype of pat
 
 Patients will be asked to come to the clinic every week for the first month of treatment and then every month until the end of the treatment. Their blood is tested and side effects of treatment are reviewed each visit. It is very important to check levels of red and white blood cells during treatment.
 
-## Hepatitis C research
-
-A study done by the University of Western Australia, Sir Charles Gairdner hospital and Fresh Start on patients who were treated for Hepatitis C in the HCV Shared Care programme at Fresh Start showed that 62% of them achieved an SVR after 6 months. This percentage is about the same as the results of hepatitis C treatment programmes for the general population (mainly non-drug users) at specialist out-patient liver clinics.
-
 ## Follow-up
 
 The outcomes of Hepatitis C treatment are most successful when the patients commit to coming to all their appointments. Hepatitis C patients are required to come for blood tests 3 months and 6 months after the end of their treatment. The levels of HCV will be tested. They will also be asked to come for annual follow-up visits to check their general health and the health of their liver.
@@ -57,3 +55,7 @@ The outcomes of Hepatitis C treatment are most successful when the patients comm
 Side effects of the antiviral drugs used for Hepatitis C treatment can include flu-like symptoms, poor appetite or nausea, mood swings, depression, headache, hair thinning, diarrhoea, infections, rash and effects on the red and/or white blood cells.
 
 Patients who are receiving Hepatitis C treatment are asked to use two forms of contraception the whole time they are on the treatment and for six months after treatment. This is because one of the anti-viral drugs can cause birth defects in babies who are born to mothers on treatment, and may affect sperm of men on treatment. Women who become pregnant while receiving Hepatitis C treatment will be required to stop treatment immediately and receive counselling about the risks to the unborn child.
+
+## Hepatitis C research
+
+A study done by the University of Western Australia, Sir Charles Gairdner hospital and Fresh Start on patients who were treated for Hepatitis C in the HCV Shared Care programme at Fresh Start showed that 62% of them achieved an SVR after 6 months. This percentage is about the same as the results of hepatitis C treatment programmes for the general population (mainly non-drug users) at specialist out-patient liver clinics.
