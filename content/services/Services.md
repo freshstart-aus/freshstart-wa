@@ -18,4 +18,6 @@ draft = false
 * [Support Groups](/services/support)
 {{% /summary %}}
 
-Sometimes abstinence alone isn’t enough to overcome addiction. That’s why Fresh Start Recovery Programme offers medical and allied health treatments for addiction.
+Sometimes abstinence alone isn’t enough to overcome drug addiction. That’s why Fresh Start Recovery Programme offers a range of medical and allied health treatments for addiction.
+
+Fresh Start offers the following list of services designed to assist in the treatment of drug addiction.
