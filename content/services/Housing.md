@@ -4,7 +4,7 @@ date: 2017-09-25T18:14:08+08:00
 draft: false
 ---
 
-Our patients go through several stages in recovery and their accommodation needs can change at each stage. We believe providing these residential facilities helps prevent our clients slipping back into drug use.
+Our patients go through several stages in recovery and their accommodation needs can change at each stage. Housing is an important factor in the addiction treatment process and program. Ensuring that our patients are adequately housed, we believe providing these residential facilities helps prevent our clients slipping back into drug use.
 
 ## Warwick House
 
