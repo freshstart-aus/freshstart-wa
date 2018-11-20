@@ -6,7 +6,7 @@ draft: false
 
 [Make an appointment](/contact/contact) to see one of our doctors.
 
-Fresh Start Recovery Programme offers specialist addiction treatment (detox and relapse prevention) on Wednesdays. Treatments for sedative dependence are typically started on Fridays.
+Fresh Start Recovery Programme offers specialist addiction treatment (including medical assesment, detoxification, relapse prevention and rehabilitation) on Wednesdays at our Subiaco location. Treatments for sedative dependence are typically started on Fridays. The treatment programme is headed by Addiction Medicine Specialist and Medical Director Dr George O'Neil.
 
 ## Addiction Medicine Specialist and Medical Director
 
