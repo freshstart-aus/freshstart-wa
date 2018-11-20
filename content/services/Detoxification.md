@@ -7,6 +7,8 @@ draft = false
 
 [Make an appointment](/contact/contact) to see one of our doctors.
 
+Fresh Start offers detoxification treatment for addictions to opioids, alcohol, amphetamine type substances amd benzodiazapines. The treatment is usually offered each Wednesday at the clinic in Subiaco.
+
 Detoxifying from opiates has some unpleasant symptoms including insomnia, restlessness, pain, fatigue and diarrhoea. If someone detoxifies with no medication, the process and its symptoms will last for 3 to 14 days, or even longer, depending on the amount and type of opiate the person has been using.
 
 Fresh Start uses a form of accelerated opiate detox which significantly reduces the withdrawal period. Before the detox procedure is started, patients are given sedatives, pain medication and anti-nausea medication to reduce the detox side effects. The withdrawal is done using small doses of medications that kick the opiates off the opioid receptors. The dose is slowly increased until the desired result is achieved. This process is done under the supervision of highly trained medical staff. After detoxification, patients are prescribed medication to control their cravings.
