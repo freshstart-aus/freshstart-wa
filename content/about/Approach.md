@@ -4,7 +4,7 @@ date: 2017-09-25T18:34:23+08:00
 draft: false
 ---
 
-Fresh Start has a unique approach to treating drug addiction.
+Fresh Start has a unique approach to treating drug and alcohol addiction.
 
 Fresh Start’s approach to helping people with drug addictions is sometimes known as the PHREE model:
 
