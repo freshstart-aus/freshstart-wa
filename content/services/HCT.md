@@ -5,13 +5,12 @@ draft: false
 ---
 
 [Make an appointment](/contact/contact) xto see our Hepatitis C Specialist Nurse.
-[Make an appointment](http://www.scgh.health.wa.gov.au/)
 
 ## What is hepatitis C?
 
 ![Hepatitis C virus](/img/hepatitis.jpg)
 
-Fresh Start, together with the Hepatology Department at Sir Charles Gairdner Hospital (SCGH), has a highly successful Shared Care treatment programme for Hepititis C and welcomes all drug users who are being treated through the drug addiction treatment program to join it.
+Fresh Start, together with the Hepatology Department at [Sir Charles Gairdner Hospital (SCGH)](http://www.scgh.health.wa.gov.au/), has a highly successful Shared Care treatment programme for Hepititis C and welcomes all drug users who are being treated through the drug addiction treatment program to join it.
 
 Hepatitis C is a viral illness that damages the liver and is caused specifically by the Hepatitis C virus (HCV).
 
