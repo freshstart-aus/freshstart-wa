@@ -5,6 +5,7 @@ draft: false
 ---
 
 [Make an appointment](/contact/contact) xto see our Hepatitis C Specialist Nurse.
+[Make an appointment](/contact/contact)
 
 ## What is hepatitis C?
 
