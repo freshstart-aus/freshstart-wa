@@ -5,7 +5,7 @@ draft: false
 ---
 
 [Make an appointment](/contact/contact) xto see our Hepatitis C Specialist Nurse.
-[Make an appointment](/contact/contact)
+[Make an appointment](http://www.scgh.health.wa.gov.au/)
 
 ## What is hepatitis C?
 
