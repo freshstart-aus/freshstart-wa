@@ -12,6 +12,6 @@ Warwick House is a short term safe environment for patients in acute stages of p
 
 ## Transitional Housing
 
-Fresh Start has limited transitional housing available for clients. Participation is determined on a case-by-case basis. We have houses available for men and women.
+Fresh Start has limited transitional housing available for clients. Participation is determined on a case-by-case basis. We have houses available for both men and women.
 
 Our [Northam Recovery Program](/services/rehabilitation) is also available for men.
