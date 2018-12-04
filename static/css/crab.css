@@ -2,7 +2,7 @@
 
 html,
 body {
-  background: green;
+  background: #fff;
   color: #333;
   font-family: 'Open Sans', sans-serif;
 }
@@ -21,6 +21,7 @@ body {
 
 .home{
 	width: auto;
+	z-index:1;
 	background-color: black;
 	background-size: cover;
 	background-position: center;
