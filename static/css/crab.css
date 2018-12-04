@@ -19,16 +19,15 @@ body {
   float: right;
 }
 
-.home{
+/*.home{
 	width: auto;
-	z-index:1;
 	background-color: black;
 	background-size: cover;
 	background-position: center;
 	background-blend-mode: overlay;
 	position: relative;
 	padding: 15px 10px 10px;
-}
+}*/
 
 #site-title,
 a:link,
