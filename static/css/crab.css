@@ -122,7 +122,7 @@ hr {
   margin-top: 2em;
 }
 
-h1,
+/*h1,
 h2,
 h3,
 h4,
@@ -130,7 +130,7 @@ h5,
 h6 {
   font-family: 'Lora', serif;
   font-weight: 400;
-}
+}*/
 
 #article p, #article ol li, #article ul li {
   text-align: justify;
