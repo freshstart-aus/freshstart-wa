@@ -2,8 +2,8 @@
 
 html,
 body {
-  /*background: #fff;*/
-  background: green;
+  background: #fff;
+  /*background: green;*/
   color: #333;
   font-family: 'Open Sans', sans-serif;
 }
@@ -33,6 +33,9 @@ body {
 .home{
 	width:auto;
 	background-color:black;
+	background-size:cover;
+	background-position:center;
+	position:relative;
 }	
 
 #site-title,
