@@ -21,7 +21,7 @@ body {
 
 .home{
 	width: auto;
-	background-color: #555;
+	background-color: black;
 	background-size: cover;
 	background-position: center;
 	background-blend-mode: overlay;
