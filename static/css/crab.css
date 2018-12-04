@@ -19,6 +19,16 @@ body {
   float: right;
 }
 
+.home{
+	width: auto;
+	background-color: #555;
+	background-size: cover;
+	background-position: center;
+	background-blend-mode: overlay;
+	position: relative;
+	padding: 15px 10px 10px;
+}
+
 #site-title,
 a:link,
 a:active,
